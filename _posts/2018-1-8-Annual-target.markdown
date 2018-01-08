@@ -25,7 +25,7 @@ DT时代已经到了，大数据时代也到了，世界是属于大数据的，
 
 - [ ] 锻炼身体，一身肌肉更帅
 
-![image](img/post-jr.jpg)
+![enter image description here](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w=268;g=0/sign=43a7aec716dfa9ecfd2e51115aeb903e/b03533fa828ba61e19a704f44634970a314e59a4.jpg)
 
 ### 第三个目标
 
