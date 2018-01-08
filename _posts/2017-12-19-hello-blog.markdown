@@ -3,7 +3,7 @@ layout:     post
 title:      "hello blog"
 subtitle:   " \"Hello World, hello Blog\""
 date:       2017-12-19 12:00:00
-author:     "Tony"
+author:     "DinghaoWang"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 生活
@@ -14,13 +14,13 @@ tags:
 
 ## 前言
 
-小胖Tony 的 Blog 就这么开通了。
+DinghaoWang 的 Blog 就这么开通了。
 
 [跳过废话，直接看技术实现 ](#build) 
 
 
 
-2015 年，小胖 总算有个地方可以好好写点东西了。
+即将到来的2018 年，总算有个地方可以好好写点东西了。
 
 
 作为一个做过前端的产品汪， Blog 这种轮子要是挂在大众博客程序上就太没意思了。一是觉得大部分 Blog 服务都太丑，二是觉得不能随便定制不好玩。之前因为太懒没有折腾，结果就一直连个写 Blog 的地儿都没有。
@@ -76,6 +76,6 @@ Theme 的 CSS 是基于 Bootstrap 定制的，看得不爽的地方直接在 Les
 
 如果你恰好逛到了这里，希望你也能喜欢这个博客主题。
 
-—— Tony 后记于 2017.12
+—— DinghaoWang 后记于 2017.12
 
 

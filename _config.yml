@@ -1,10 +1,10 @@
 # Site settings
-title: 大城小胖Tony Blog
-SEOTitle: Tony的博客 | Tony的Blog
+title: DinghaoWang Blog
+SEOTitle: DinghaoWang 博客 | DinghaoWang的Blog
 header-img: img/home-bg.jpg
 email: dinghaow2904@163.com
-description: "关于前端与设计、产品与数据 | 大城小胖Tony，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @dinghaow大城小胖Tony 的个人博客，与你一起发现更大的世界。"
-keyword: "大城小胖Tony, dinghaow大城小胖Tony, dinghaow, 大城小胖Tony的博客, dinghaow Blog, 博客, 个人网站, 互联网, Web, 大数据, python, 数据分析"
+description: "关于前端与设计、产品与数据 | DinghaoWang & Mobile Lover，Software Engineer，UX Designer | 这里是 @dinghaow大城小胖Tony 的个人博客，与你一起发现更大的世界。"
+keyword: "DinghaoWang, dinghaow大城小胖Tony, dinghaow, 大城小胖Tony的博客, dinghaow Blog, 博客, 个人网站, 互联网, Web, 大数据, python, 数据分析"
 url: "https://dinghaow.GitHub.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
