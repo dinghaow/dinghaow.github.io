@@ -12,7 +12,7 @@ tags:
 
 # 语法基础
 
-![python base](img/in-post/post-python-base/Python_1.png)
+![img](/img/in-post/post-python-base/Python_1.png)
 
 # 常用函数解析
 
