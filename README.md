@@ -1,2 +1,2 @@
 # dinghaow.github.io
-DinghaoWang Blog
+WangDinghao Blog

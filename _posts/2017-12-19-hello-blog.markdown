@@ -3,7 +3,7 @@ layout:     post
 title:      "hello blog"
 subtitle:   " \"Hello World, hello Blog\""
 date:       2017-12-19 12:00:00
-author:     "DinghaoWang"
+author:     "WangDinghao"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 生活
