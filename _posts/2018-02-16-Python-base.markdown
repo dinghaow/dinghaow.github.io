@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Python base"
+title:      "Python基础语法"
 subtitle:   " \"Python基础语法\""
 date:       2018-02-16 12:00:00
 author:     "WangDinghao"
@@ -11,6 +11,7 @@ tags:
 
 
 # 语法基础
+>备注：图片加载较慢，请耐心...
 
 ![img](/img/in-post/post-python-base/Python_1.png)
 
