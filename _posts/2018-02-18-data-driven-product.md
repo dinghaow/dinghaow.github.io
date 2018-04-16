@@ -16,11 +16,11 @@ tags:
 
 >备注：图片加载较慢，请耐心...
 
-![excel](/img/in-post/post-data-excel.png)
+![如何用数据驱动产品和运营](https://note.youdao.com/yws/public/resource/a1ed02a1bb1f4bb16e24625fb3a40f32/xmlnote/4B39B60684AC4430A4FF283754233078/3186)
 
-![excel](/img/in-post/post-data-sjfx.png)
+![数据分析的基本方法及实践](https://note.youdao.com/yws/public/resource/a1ed02a1bb1f4bb16e24625fb3a40f32/xmlnote/70CC13FC905D4024874F7F2B1A237F5C/3187)
 
-![excel](/img/in-post/post-data-datadri.png)
+![excel](https://note.youdao.com/yws/public/resource/a1ed02a1bb1f4bb16e24625fb3a40f32/xmlnote/818F4020C06842B483A4AE1279DA77EA/3188)
 
 
 
