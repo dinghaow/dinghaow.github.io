@@ -67,7 +67,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "不会写程序的数据分析师<br>不是一个好的产品经理"
+sidebar-about-description: "一个不会写代码的数据分析师<br>不是一个好的产品经理"
 sidebar-avatar: /img/avatar-dinghaow.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
